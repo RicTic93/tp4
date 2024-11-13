@@ -1,3 +1,3 @@
-print("Hello world")ù
+print("Hello world")
 print("Ciao")
 print("prova due")
